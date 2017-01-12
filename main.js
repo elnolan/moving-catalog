@@ -1,7 +1,7 @@
 // var Handlebars = require('handlebars');
 
 // ------ !!!!!! REPLACE ME !!!!!!! --------- //
-var myurl = 'https://docs.google.com/spreadsheets/d/18CY89mk23JefG3rqmqBaZxSaKV0f4X-PPzEGtJaWSB4/pubhtml?gid=0&single=true';
+var myurl = 'https://docs.google.com/spreadsheets/d/1fXk4giDiSJwVahxhHg0kI2lBVYyob_9gbMkg36ouCy8/pubhtml?gid=0&single=true';
 // ------ !!!!!! REPLACE ME !!!!!!! --------- //
 
 
